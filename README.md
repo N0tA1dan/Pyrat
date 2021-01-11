@@ -13,8 +13,8 @@ At the moment Pyrat can only run command prompt commands but in the future it wi
 
 -----------------------------
 
-when you finish making a back door there will be multiple new folders... you can delete all of them besides the "dist" which contains the backdoor itself
+once finished with generating the backdoor it will be contained in a folder called "dist". You can delete the rest of the folders besides ".idea" which is the configurations for the python file
 
-----------------------------
+-----------------------------
 
 to start up Pyrat just unzip the following folder and run the command: python main.py
